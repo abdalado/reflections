@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need it?
+-A hidden folder in wich all my versions will be stored is created, i obviously need it for storing my stuff in the HDs

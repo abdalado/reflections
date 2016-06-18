@@ -1,0 +1,10 @@
+  - Viewing a diff between two versions of a file helped mainly because it showed how subtle changes in sintax may cause different interpretations
+
+  How could you have access to the entire history of a file make you a more efficient programmer in the long term?
+  - Once i master the metodology i supose it's going to save me a lot of time and prevent some big mastakes
+
+  What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+  - Manually commiting when used correctly it`s an useful tool for it may be applyied at the end of a logical implementation, automatic commiting, on the other hand, may not be suceptible to user error but it'll or commit too many versions or constantly keep the user under the risk of losing his work 
+
+  
